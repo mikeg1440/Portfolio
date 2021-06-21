@@ -200,4 +200,10 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [license-url]: https://github.com/mikeg1440/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/michael-gaudreau
+
+<<<<<<< HEAD
 [product-screenshot]: https://github.com/mikeg1440/Best-README-Template/raw/master/images/screenshot.png
+=======
+[product-screenshot]: https://github.com/mikeg1440/Best-README-Template/images/screenshot.png
+
+> > > > > > > 853b6838369bfd91b5111ff484df9f7466c189a8
