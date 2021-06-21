@@ -5,10 +5,6 @@ import { Container } from '@material-ui/core';
 export default function Menubar() {
     return (
         <MenuContainer>
-            {/* <MenuLogo>
-            <img src="https://via.placeholder.com/150" alt="Logo"/>
-            </MenuLogo> */}
-
             <MenuLogo>
               <h3>Portfolio Site</h3>
             </MenuLogo>
