@@ -21,6 +21,12 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+# Todo
+
+    [ ] Update ReadMe
+    [ ] Finish Landing Page
+    [ ] Get hosted (github pages?)
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
