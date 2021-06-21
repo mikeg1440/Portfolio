@@ -3,6 +3,8 @@ import Menubar from './Menubar';
 import { Divider } from '@material-ui/core';
 import LandingHeader from './LandingHeader';
 import ProjectSection from './ProjectSection';
+import SocialWidget from './SocialWidget';
+
 function App() {
   return (
     <StyledContainer>
@@ -35,6 +37,8 @@ function App() {
         </AboutSection>
 
       </SectionContainer>
+
+      <SocialWidget/>
 
     </StyledContainer>
   );
