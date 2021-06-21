@@ -23,9 +23,9 @@
 
 # Todo
 
-    [ ] Update ReadMe
-    [ ] Finish Landing Page
-    [ ] Get hosted (github pages?)
+- [ ] Update ReadMe
+- [ ] Finish Landing Page
+- [ ] Get hosted (github pages?)
 
 <!-- PROJECT LOGO -->
 <br />
