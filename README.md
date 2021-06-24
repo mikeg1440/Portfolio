@@ -26,6 +26,7 @@
 - [ ] Update ReadMe
 - [ ] Finish Landing Page
 - [ ] Get hosted (github pages?)
+- [ ] Decide between react-reveal and materia-ui animations (delete the unused one)
 
 <!-- PROJECT LOGO -->
 <br />
